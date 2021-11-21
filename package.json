@@ -26,21 +26,21 @@
     "test": "test"
   },
   "scripts": {
-    "webpack": "webpack --watch",
+    "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liamzhang40/Basana.git"
+    "url": "git+https://github.com/talele427/Basana.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liamzhang40/Basana/issues"
+    "url": "https://github.com/talele427/Basana/issues"
   },
-  "homepage": "https://github.com/liamzhang40/Basana#readme",
+  "homepage": "https://github.com/talele427/Basana#readme",
   "engines": {
     "node": "8.9.4",
     "npm": "5.8.0"
